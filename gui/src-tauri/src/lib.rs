@@ -1,6 +1,6 @@
-use core::backup::BackupManager;
-use core::get_all_tweaks;
-use serde::{Deserialize, Serialize};
+use nettune_core::backup::BackupManager;
+use nettune_core::get_all_tweaks;
+use serde::Serialize;
 use std::path::PathBuf;
 
 #[derive(Serialize)]

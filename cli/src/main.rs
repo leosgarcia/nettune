@@ -1,7 +1,7 @@
 use clap::{Parser, Subcommand};
-use core::backup::BackupManager;
-use core::get_all_tweaks;
-use core::tweaks::Tweak;
+use nettune_core::backup::BackupManager;
+use nettune_core::get_all_tweaks;
+use nettune_core::tweaks::Tweak;
 use std::path::PathBuf;
 use tracing::{error, info, warn};
 use tracing_subscriber::EnvFilter;
