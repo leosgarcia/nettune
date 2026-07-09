@@ -1,9 +1,7 @@
 #![warn(clippy::pedantic)]
 
 pub mod backup;
-pub mod sys_info;
 pub mod tweaks;
-pub mod utils;
 
 use crate::tweaks::Tweak;
 
