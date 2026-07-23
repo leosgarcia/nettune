@@ -94,3 +94,11 @@ cargo run --bin cli -- revert-all
 ## 📜 Licença e Privacidade
 
 O código é livre e aberto sob a licença **MIT**. Nenhuma métrica, telemetria analítica, ou endereço IP é coletado e enviado remotamente. A ferramenta opera localmente sem necessidade de conexão externa ativa.
+
+---
+
+<p align="center">
+  <a href="https://buymeacoffee.com/leosgarcia" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important; width: 217px !important;">
+  </a>
+</p>
